@@ -12,13 +12,17 @@ In addition to this, we need either 2/4/6/8 players, organised in teams of two s
 GamePlay:
 Players play once each turn, going in clockwise direction.
 As a part of each turn, a player does the following:
+
 1) Play a card from the cards in hand:
   Choose a card from your hand and show it to other players. If its not a J, there will be two possible places on the board for this card.   If there is an empty cell (cell without a coin on it), then put one coin of your team's color on that cell, and discard the card
   
   If this card is a J, then :
   a) If its a on eyed J, then choose any one coin on the board and discard the coin
+  
   b) If its a two eyed J, then choose any empty cell on the board and keep a coin of your color on the cell.
+
 2) Take a card from the pile of cards if there are any.
+
 3) Discard a card from hand if there is no place to play a card.
 
 Goal of the game is to create a sequence of at least 5 coins of the same color in the same line.
